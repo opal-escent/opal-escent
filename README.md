@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @opal-escent
-- 👀 I’m interested in weird cryptography stuff.
-- 🌱 I’m currently learning about zero-knowledge proofs and multi-party computation.
+- 👋 Hi, I’m Opal
+- 👀 I do cryptography stuff at Trail of Bits.
+- 🌱 I've been working a bit lately on Fiat-Shamir stuff, including a fun paper [here](https://eprint.iacr.org/2023/691) and a transcript enforcement library [here](https://github.com/trailofbits/decree)
 - 📫 How to reach me github@opalwright.org
-
-<!---
-opal-escent/opal-escent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm not great with Rust, but I'm getting better (and it's growing on me)
+- You could probably find me on your dinner table or in your kitchen (I'm an old C salt)
